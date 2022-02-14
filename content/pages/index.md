@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: main page
-  description: The preview of the Fresh theme
+  description: main page
   extra:
     - name: 'og:type'
       value: website
