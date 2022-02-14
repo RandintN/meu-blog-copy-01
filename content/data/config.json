@@ -9,7 +9,7 @@
         "profile_img": "/images/Eu - Frontal.jpg",
         "profile_img_alt": "Author photo",
         "background": "dark",
-        "has_nav": false,
+        "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
