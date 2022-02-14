@@ -53,5 +53,7 @@ seo:
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
+  robots:
+    - all
 layout: advanced
 ---
