@@ -7,7 +7,6 @@ sections:
     content: To get in touch please fill the form below.
     form_id: contactForm
     form_action: /thank-you
-    d: https://formspree.io/f/xqknqpbg
     form_fields:
       - input_type: text
         name: name
