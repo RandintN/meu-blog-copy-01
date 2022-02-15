@@ -58,3 +58,38 @@ img_alt: Writing on a paper with a pen
 >
 > — Peter Kaufman
 
+
+
+Great Stories
+
+> Great stories build relationships and make people care
+>
+> Character-driven stories make us care
+>
+> The ultimate love potion is stories
+>
+> Have a great character that people can connect with
+>
+> Great stories have tension
+>
+> Tension leads to attention
+>
+> Start with a story
+>
+> Great stories must be appropriate for the stage of the relationship 
+>
+> Working on the right thing is more important than working hard.
+>
+> Why use a long word, if you can use a short word
+>
+> Do something worth writing
+>
+> Either write something worth reading or do something worth writing
+>
+> Give them what they need to know, not everything you know(If they want more information, they will ask for it)
+>
+> Keep it simple, keep it short
+>
+> Starts with what is important to them
+>
+
