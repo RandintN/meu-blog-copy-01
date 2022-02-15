@@ -1,6 +1,6 @@
 ---
 title: Aphorisms
-subtitle: On this page I put together phrases and thoughts that I appreciate
+subtitle: 'On this page, I put together phrases and thoughts that I appreciate'
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
