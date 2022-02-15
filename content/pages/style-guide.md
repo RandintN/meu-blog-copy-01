@@ -37,6 +37,12 @@ img_path: /images/U-Sharma.jpg
 ## Quoting
 
 > The fastest way to improve is to learn from others.
-
-
+>
+> Read good books
+>
+> Talk to people who have done it
+>
+> Soak up the lessons of the past
+>
+> Learn from the experiments history has already run and you can start the race halfway finished.
 
