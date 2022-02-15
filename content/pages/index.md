@@ -28,7 +28,7 @@ sections:
         url: blog/
         style: button
 seo:
-  title: Robson Cassiano
+  title: '| Robson Cassiano'
   description: main page
   extra:
     - name: 'og:type'
