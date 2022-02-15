@@ -10,11 +10,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am passionate about working with the best technologies for each context,
+      helping people, and software engineering. I love what technology has done
+      for businesses and consumers, and there is no doubt it is going to have a
+      continued effect throughout the world moving forward.
     actions:
       - label: Contact Me
         url: /contact
