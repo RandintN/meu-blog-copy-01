@@ -3,7 +3,7 @@ title: Aphorisms
 subtitle: 'On this page, I put together phrases and thoughts that I appreciate'
 seo:
   title: Aphorisms
-  description: A reference for suggested typographic treatment and styles for your content
+  description: 'Catch phrases and '
   extra:
     - name: 'og:type'
       value: website
