@@ -33,7 +33,7 @@ seo:
       relativeUrl: true
 layout: page
 img_path: /images/U-Sharma.jpg
-img_alt: Pen Writing a paper
+img_alt: Pen writing a paper
 ---
 ## Quoting
 
