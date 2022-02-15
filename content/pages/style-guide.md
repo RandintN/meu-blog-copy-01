@@ -2,7 +2,7 @@
 title: Aphorisms
 subtitle: 'On this page, I put together phrases and thoughts that I appreciate'
 seo:
-  title: Aphorims
+  title: Aphorisms
   description: A reference for suggested typographic treatment and styles for your content
   extra:
     - name: 'og:type'
