@@ -46,3 +46,13 @@ img_path: /images/U-Sharma.jpg
 >
 > Learn from the experiments history has already run and you can start the race halfway finished.
 
+> Repeat what works.
+>
+> “Every statistician knows that a large, relevant sample size is their best friend. 
+> What are the three largest, most relevant sample sizes for identifying universal principles? 
+>
+> Bucket number one is inorganic systems, which are 13.7 billion years in size. It’s all the laws of math and physics, the entire physical universe. Bucket number two is organic systems, 3.5 billion years of biology on Earth. And bucket number three is human history, you can pick your own number, I picked 20,000 years of recorded human behavior. 
+>
+> Those are the three largest sample sizes we can access and the most relevant.”
+> — Peter Kaufman
+
