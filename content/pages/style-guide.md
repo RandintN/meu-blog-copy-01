@@ -3,7 +3,7 @@ title: Aphorisms
 subtitle: 'On this page, I put together phrases and thoughts that I appreciate'
 seo:
   title: Aphorisms
-  description: Catch phrases and short sentences
+  description: Catchphrases and short sentences
   extra:
     - name: 'og:type'
       value: website
