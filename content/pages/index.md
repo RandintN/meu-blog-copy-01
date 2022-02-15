@@ -55,5 +55,6 @@ seo:
       relativeUrl: true
   robots:
     - all
+    - all
 layout: advanced
 ---
